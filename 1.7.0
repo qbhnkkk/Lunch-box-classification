@@ -1,0 +1,9 @@
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Collecting onnx
+  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/73/19/048a3c75d315b5b4b739b57be446393ec94c207320923e9d47f8ee9a1bd6/onnx-1.11.0-cp38-cp38-win_amd64.whl (11.2 MB)
+Requirement already satisfied: protobuf>=3.12.2 in c:\users\lenovo\miniconda3\envs\mypytorch\lib\site-packages (from onnx) (3.17.3)
+Requirement already satisfied: numpy>=1.16.6 in c:\users\lenovo\miniconda3\envs\mypytorch\lib\site-packages (from onnx) (1.21.1)
+Requirement already satisfied: typing-extensions>=3.6.2.1 in c:\users\lenovo\miniconda3\envs\mypytorch\lib\site-packages (from onnx) (3.10.0.0)
+Requirement already satisfied: six>=1.9 in c:\users\lenovo\miniconda3\envs\mypytorch\lib\site-packages (from protobuf>=3.12.2->onnx) (1.16.0)
+Installing collected packages: onnx
+Successfully installed onnx-1.11.0

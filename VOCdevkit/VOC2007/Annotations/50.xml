@@ -1,0 +1,26 @@
+<annotation>
+	<folder>black-box</folder>
+	<filename>50.jpg</filename>
+	<path>D:\project\food box\box picture\black-box\50.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>black-box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>3</ymin>
+			<xmax>621</xmax>
+			<ymax>469</ymax>
+		</bndbox>
+	</object>
+</annotation>
